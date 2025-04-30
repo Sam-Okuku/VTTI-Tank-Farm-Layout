@@ -13,7 +13,7 @@ This project involves the **layout design** for a **Tank Farm** at the **VTTI Ke
 
 ### 📂 View Layout Drawing
 
-👉 [Click here to view VTTI Tank Farm Layout](https://github.com/Sam-Okuku/VTTI-Tank-Farm-Layout/raw/main/VTTI%20TANK%20FARM%20LAYOUT.pdf)
+👉 [Click here to view VTTI Tank Farm Layout](https://github.com/Sam-Okuku/VTTI-Tank-Farm-Layout/blob/main/VTTI%20TANK%20FARM%20LAYOUT.pdf)
 
 > *Note: You can view the layout directly in your browser on GitHub.*
 
